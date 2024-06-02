@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @TheCaptain1810
 - 👀 I’m interested in Web Development.
 - 🌱 I’m currently learning Computer Science Engineering.
-- 📫 How to reach me X: @PranavRPise, Insta: @pranav.r.pise
+- 📫 How to reach me X: @PranavRPise Link: https://x.com/PranavRPise , Insta: @pranav.r.pise Link: https://www.instagram.com/pranav.r.pise/
 
 <!---
 TheCaptain1810/TheCaptain1810 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
