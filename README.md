@@ -1,39 +1,36 @@
-# 👋 Hi there, I'm Pranav!
+<h1 align="center">Hello, World! I'm Pranav Pise</h1>
 
-## 🚀 About Me
+<h2 align="center">Software Engineer | Web Developer</h2><br>
 
-- **💻 Role**: Coding Expert for AI Training @Outlier  
-- **🌱 Currently Exploring**: Advanced problem-solving strategies, optimization, and improving frontend design with React.  
-- **🎯 Goal**: To consistently write clean, efficient, and impactful code while learning new technologies.  
-- **🤝 Open To**: Collaboration on AI-driven applications, frontend projects, and optimization challenges.  
+<p align="center"> 
+    <img alt="star my repos" src="https://readme-typing-svg.herokuapp.com/?lines=Visit%20my%20LinkedIn%20Profile;I%20Post%20Insightful%20Content;Follow%20to%20get%20New%20Updates&font=Bold%20Code&center=true&height=30&color=30D050&pause=1750&vCenter=true&size=20">
+</p>
 
----
+<p align="center"> 
+    <a title="linkedin" href="https://www.linkedin.com/in/pranav-pise-153b59238/"> 
+        <img alt="linkedin" src="https://skillicons.dev/icons?i=linkedin&perline=1" height="50"/> 
+    </a>
+    <a title="gmail" href="https://x.com/PranavRPise"> 
+        <img alt="X" src="https://skillicons.dev/icons?i=twitter&perline=1" height="50"/> 
+    </a>
+</p>
 
-## 🛠️ Tech Stack
+<h3 align="left">💎 About Me:</h3>
 
-**Programming Languages:**  
-![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)  
-![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+<p align="left">As a software engineer, I have developed and delivered multiple projects for various clients and industries. 🔆</p>
 
-**Frameworks & Libraries:**  
-![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)  
-![Node.js](https://img.shields.io/badge/Node.js-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white)
+<p align="left">I learned and applied research, teamwork, and problem-solving skills to various individual and group projects. 👌</p>
 
-**Tools:**  
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)  
-![VS Code](https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)  
-![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
+<p align="left">I'm motivated by creativity, and I pursue further education and career opportunities in software engineering field. ✨</p>
 
----
+<h3 align="center">🛠 Languages and Tools:</h3>
 
-## 📫 Let's Connect!  
+<p align="center"> 
+    <div align="center"> 
+        <img alt="skills" src="https://skillicons.dev/icons?i=js,ts,html,css,react,nodejs,mongodb,tailwind,cpp,git,postman,stackoverflow,vscode,neovim&perline=7"/> 
+    </div> 
+</p>
 
-Feel free to explore my repositories and connect:  
-
-- [📂 My Projects](https://github.com/TheCaptain1810?tab=repositories)  
-- [📧 Email Me](mailto:itspranavpise@gmail.com)  
-- [💼 LinkedIn](https://www.linkedin.com/in/pranav-pise-153b59238/)
-
----
-
-🌟 **"Code is like poetry; when written well, it speaks volumes."**
+<p align="center"> 
+    <img alt="github contributions" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"> 
+</p>
