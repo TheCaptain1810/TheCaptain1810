@@ -47,13 +47,6 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=TheCaptain1810&show_icons=true&hide_border=true" alt="GitHub stats"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheCaptain1810&layout=compact&hide_border=true" alt="Top languages"/>
-</p>
-
 ## 🎓 Certifications
 
 - MongoDB Node.js Developer Path
