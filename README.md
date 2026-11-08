@@ -57,7 +57,7 @@
 
 ## 🤝 Let's Connect
 
-I'm always happy to talk about web development, open-source, and building useful products. Reach out on [LinkedIn](https://www.linkedin.com/in/pranavpise-153b59238) or drop me an email.
+I'm always happy to talk about web development, open-source, and building useful products. Reach out on [LinkedIn](https://www.linkedin.com/in/pranav-pise-153b59238/) or drop me an email.
 
 ---
 
