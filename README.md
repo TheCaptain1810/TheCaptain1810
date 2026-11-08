@@ -1,70 +1,71 @@
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00FFDD&center=true&vCenter=true&width=600&lines=Hey+there%2C+I'm+Pranav+Pise!+%F0%9F%9A%80;SDE" alt="Typing SVG">
-</div>
+<h1 align="center">Hi, I'm Pranav Pise 👋</h1>
 
-<div align="center">
-  <h3>🌌 Crafting Code, Building Dreams, One Commit at a Time</h3>
-  <p>Passionate about creating impactful solutions and diving deep into the world of web development and open-source. Let's connect and build something extraordinary! 😎</p>
-</div>
-
----
-
-## 🌟 About Me
-- 💻 **Software Developer**: Building innovative solutions with a focus on web and automation.
-- 🌍 **Open-Source Advocate**: Proud contributor to open-source communities like [first-contributions](https://github.com/firstcontributions/first-contributions).
-- 🎯 **Mission**: Mastering full-stack development and creating projects that inspire.
-- ☕ **Vibes**: Gaming, exploring new tech, and brainstorming over coffee.
-
----
-
-## 🛠️ Tech Stack
 <p align="center">
-  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E?logo=javascript&logoColor=black&style=flat-square" alt="JavaScript">
-  <img src="https://img.shields.io/badge/TypeScript-%233178C6?logo=typescript&logoColor=white&style=flat-square" alt="TypeScript">
-  <img src="https://img.shields.io/badge/C%2B%2B-%2300599C?logo=c%2B%2B&logoColor=white&style=flat-square" alt="C++">
-  <img src="https://img.shields.io/badge/Git-%23F05032?logo=git&logoColor=white&style=flat-square" alt="Git">
-  <img src="https://img.shields.io/badge/GitHub-%23181717?logo=github&logoColor=white&style=flat-square" alt="GitHub">
-  <img src="https://img.shields.io/badge/VS_Code-%23007ACC?logo=visual-studio-code&logoColor=white&style=flat-square" alt="VS Code">
+  Member of Technical Staff at <b>nCircle Tech</b> · Pune, India<br/>
+  I build scalable web applications with TypeScript, React, and Node.js.
 </p>
 
-- **Interests**: Web Development, Automation, Open-Source
-- **Currently Learning**: Data Structures, Algorithms, Full-Stack Development
+<p align="center">
+  <a href="[https://www.linkedin.com/in/pranavpise-153b59238](https://www.linkedin.com/in/pranav-pise-153b59238/)"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:itspranavpise@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+</p>
 
 ---
+
+## 🧑‍💻 About Me
+
+- 🏢 Member of Technical Staff at **nCircle Tech**, working on full-stack web platforms
+- 🛠️ I design front-end interfaces and back-end APIs, with a focus on performance, reliability, and clean code
+- 📚 Currently deepening my skills in System Design and Architecture, Cloud Computing
+- 🌌 Outside code: I'm curious about space, and I've contributed to near-Earth object detection as a citizen scientist
+- 💬 Ask me about: React, Next.js, Node.js, MongoDB, and building REST APIs
+
+## 🧰 Tech Stack
+
+**Languages**
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+
+**Frontend**
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+**Backend & Databases**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+
+**Tools**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
 ## 📊 GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TheCaptain1810&show_icons=true&theme=dracula&hide_border=true" alt="Pranav's GitHub Stats" width="400">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheCaptain1810&layout=compact&theme=dracula&hide_border=true" alt="Top Languages" width="300">
-</div>
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=TheCaptain1810&show_icons=true&hide_border=true" alt="GitHub stats"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheCaptain1810&layout=compact&hide_border=true" alt="Top languages"/>
+</p>
+
+## 🎓 Certifications
+
+- MongoDB Node.js Developer Path
+- MongoDB Data Modeling Path
+- Back End Development and APIs
+- Front End Development Libraries
+- GitHub Foundations
+
+## 🤝 Let's Connect
+
+I'm always happy to talk about web development, open-source, and building useful products. Reach out on [LinkedIn](https://www.linkedin.com/in/pranavpise-153b59238) or drop me an email.
 
 ---
 
-## 📬 Connect with Me
-<div align="center">
-  <a href="mailto:itspranavpise@gmail.com">
-    <img src="https://img.shields.io/badge/Email-itspranavpise%40gmail.com-red?logo=gmail&style=for-the-badge" alt="Email">
-  </a>
-  <a href="https://x.com/PranavRPise">
-    <img src="https://img.shields.io/badge/X-@PranavRPise-black?logo=x&style=for-the-badge" alt="X">
-  </a>
-  <a href="https://pranavpise.netlify.app/">
-    <img src="https://img.shields.io/badge/Portfolio-pranavpise.netlify.app-blue?logo=netlify&style=for-the-badge" alt="Portfolio">
-  </a>
-</div>
-
-<p align="center">💬 Open to collabs on open-source projects or coding adventures!</p>
-
----
-
-## 🎉 Thanks for Stopping By!
-<div align="center">
-  <p>Star my repos, fork my projects, or drop a message to collaborate! Let's create something epic together! ✨</p>
-  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="200" alt="Coding GIF">
-</div>
-
----
-
-<div align="center">
-  <i>“Code is like humor. When you have to explain it, it’s bad.” – Cory House</i>
-</div>
+<p align="center">⭐ Thanks for stopping by!</p>
